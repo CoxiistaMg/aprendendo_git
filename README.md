@@ -1,2 +1,2 @@
 # aprendendo_git
-Eu apenas desejo fazer meu primeiro commit, e criei um projetinho bem simplês
+Eu apenas desejo fazer meu primeiro commit, criei um projetinho bem simplês
